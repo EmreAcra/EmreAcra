@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmreAcra
-- 👀 I’m interested in junior positions in all programming positions
+- 👀 I’m interested in junior roles
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
